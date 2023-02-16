@@ -1,3 +1,6 @@
 [submodule "memory_puzzle_project"]
 	path = memory_puzzle_project
 	url = https://github.com/brianhvo02/memory_puzzle_project.git
+[submodule "sudoku-project"]
+	path = sudoku-project
+	url = https://github.com/brianhvo02/sudoku-project.git
